@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c2a9d0b.chunk.css",
+    "main.js": "/static/js/main.120df0bb.chunk.js",
+    "main.js.map": "/static/js/main.120df0bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.248907bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.248907bc.js.map",
+    "static/js/2.2f453ef5.chunk.js": "/static/js/2.2f453ef5.chunk.js",
+    "static/js/2.2f453ef5.chunk.js.map": "/static/js/2.2f453ef5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2c2a9d0b.chunk.css.map": "/static/css/main.2c2a9d0b.chunk.css.map",
+    "static/js/2.2f453ef5.chunk.js.LICENSE.txt": "/static/js/2.2f453ef5.chunk.js.LICENSE.txt",
+    "static/media/3.63e126b5.png": "/static/media/3.63e126b5.png",
+    "static/media/Subtract.8e5eaa4f.svg": "/static/media/Subtract.8e5eaa4f.svg",
+    "static/media/about.8ee19b7b.jpg": "/static/media/about.8ee19b7b.jpg",
+    "static/media/home.5d74fb0d.png": "/static/media/home.5d74fb0d.png",
+    "static/media/pds1.8d09f684.png": "/static/media/pds1.8d09f684.png",
+    "static/media/pds2.314c6871.png": "/static/media/pds2.314c6871.png",
+    "static/media/index.css": "/static/media/productsans-regular-webfont.ef07964f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248907bc.js",
+    "static/js/2.2f453ef5.chunk.js",
+    "static/css/main.2c2a9d0b.chunk.css",
+    "static/js/main.120df0bb.chunk.js"
+  ]
+}
